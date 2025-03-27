@@ -1508,8 +1508,8 @@ img.image-main {
 }
 
 .about-img {
-  width: 479px;
-  height: 546px;
+  width: 291px !important;
+  height: 406px !important;
 }
 
 .iranifarsh {
