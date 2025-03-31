@@ -117,7 +117,6 @@ ScrollReveal().reveal('.testmonial-slider');
 ScrollReveal().reveal('.contact-inner');
 
 
-document.addEventListener('DOMContentLoaded', function () {
-    let preloader = document.getElementById('preloader')
-    preloader.style.display = 'none';
+window.addEventListener("load", function () {
+    document.getElementById("preloader").style.display = "none";
 });
